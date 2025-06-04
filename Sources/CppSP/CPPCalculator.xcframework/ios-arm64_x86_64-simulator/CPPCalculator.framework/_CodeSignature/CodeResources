@@ -6,7 +6,11 @@
 	<dict>
 		<key>Headers/CPPCalculator.h</key>
 		<data>
-		T9+GgWLViuZAnfZdHLCmhfxI7NY=
+		fz1pZY/O0XD1gxMAj+FFgiKHxTs=
+		</data>
+		<key>Headers/ModelClass.h</key>
+		<data>
+		4izr1SQukq7VXktvx7W/jm9gthE=
 		</data>
 		<key>Headers/ObjCalculatorWrapper.h</key>
 		<data>
@@ -27,7 +31,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tRrxvOitPyLysK0X5h+M0cBU80uZoEx2EkrrsWVJoS8=
+			rm6wwMwn+w9sA/dRhY6pzPLvYwZZAW7UhcAW0sP1cUE=
+			</data>
+		</dict>
+		<key>Headers/ModelClass.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j9vD+P8X2HBtnRVRDJdxJq9g5560Wmh9CbT3q4aXeIQ=
 			</data>
 		</dict>
 		<key>Headers/ObjCalculatorWrapper.h</key>

@@ -14,4 +14,6 @@ FOUNDATION_EXPORT double CPPCalculatorVersionNumber;
 FOUNDATION_EXPORT const unsigned char CPPCalculatorVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CPPCalculator/PublicHeader.h>
+
 #import <CPPCalculator/ObjCalculatorWrapper.h>
+#import <CPPCalculator/ModelClass.h>
