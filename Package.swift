@@ -23,7 +23,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "CPPCalculator",
-            path: "./Source/CppSP/CPPCalculator.xcframework"
+            path: "./Sources/CppSP/CPPCalculator.xcframework"
         )
     ]
 )
